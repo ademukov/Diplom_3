@@ -1,0 +1,56 @@
+{
+  "uid" : "758f345f580ba019",
+  "name" : "navigateBurgerIngredientsTabs",
+  "fullName" : "org.example.ConstructorTest.navigateBurgerIngredientsTabs",
+  "historyId" : "1e5abb9ae9eb7c4c40199a41af65d81e",
+  "time" : {
+    "start" : 1695547798536,
+    "stop" : 1695547805317,
+    "duration" : 6781
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.ConstructorTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "navigateBurgerIngredientsTabs"
+  }, {
+    "name" : "suite",
+    "value" : "org.example.ConstructorTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Air-Urij.local"
+  }, {
+    "name" : "thread",
+    "value" : "55766@MacBook-Air-Urij.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "758f345f580ba019.json",
+  "parameterValues" : [ ]
+}

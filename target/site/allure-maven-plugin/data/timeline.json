@@ -1,0 +1,130 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MacBook-Air-Urij.local",
+    "children" : [ {
+      "name" : "55766@MacBook-Air-Urij.local.main(1)",
+      "children" : [ {
+        "name" : "Вход через кнопку в форме регистрации",
+        "uid" : "62bf198d8ede4968",
+        "parentUid" : "6c2844406b89fb3eb964375384385eac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695547758417,
+          "stop" : 1695547771832,
+          "duration" : 13415
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Выход по кнопке «Выйти» в личном кабинете",
+        "uid" : "2d19d07248e2b8df",
+        "parentUid" : "6c2844406b89fb3eb964375384385eac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695547772346,
+          "stop" : 1695547779939,
+          "duration" : 7593
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Отображение ошибки при вводе некорректного пароля",
+        "uid" : "9ab507de1817f3ea",
+        "parentUid" : "6c2844406b89fb3eb964375384385eac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695547823737,
+          "stop" : 1695547829419,
+          "duration" : 5682
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Успешная регистрация",
+        "uid" : "3169215840c0ee4f",
+        "parentUid" : "6c2844406b89fb3eb964375384385eac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695547812921,
+          "stop" : 1695547823596,
+          "duration" : 10675
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Вход через кнопку в форме восстановления пароля",
+        "uid" : "7a9fcdc29658fb9b",
+        "parentUid" : "6c2844406b89fb3eb964375384385eac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695547791630,
+          "stop" : 1695547797780,
+          "duration" : 6150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Вход по кнопке «Войти в аккаунт» на главной",
+        "uid" : "68c1a0af95635fb",
+        "parentUid" : "6c2844406b89fb3eb964375384385eac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695547785686,
+          "stop" : 1695547791597,
+          "duration" : 5911
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Переход в личный кабинет залогиненным пользователем",
+        "uid" : "4db66d78cea8b7d6",
+        "parentUid" : "6c2844406b89fb3eb964375384385eac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695547806029,
+          "stop" : 1695547812526,
+          "duration" : 6497
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Вход через кнопку «Личный кабинет»",
+        "uid" : "ab379984ec4efdbc",
+        "parentUid" : "6c2844406b89fb3eb964375384385eac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695547779951,
+          "stop" : 1695547785675,
+          "duration" : 5724
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "navigateBurgerIngredientsTabs",
+        "uid" : "758f345f580ba019",
+        "parentUid" : "6c2844406b89fb3eb964375384385eac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1695547798536,
+          "stop" : 1695547805317,
+          "duration" : 6781
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6c2844406b89fb3eb964375384385eac"
+    } ],
+    "uid" : "e34663f727491a61114b640cae487347"
+  } ]
+}

@@ -1,0 +1,126 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "org.example",
+    "children" : [ {
+      "name" : "authWithLoginButtonOnRegisterPage",
+      "uid" : "62bf198d8ede4968",
+      "parentUid" : "135bac64e72a6ce5347105d4ba2d38d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695547758417,
+        "stop" : 1695547771832,
+        "duration" : 13415
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "userlogoutFromAccount",
+      "uid" : "2d19d07248e2b8df",
+      "parentUid" : "135bac64e72a6ce5347105d4ba2d38d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695547772346,
+        "stop" : 1695547779939,
+        "duration" : 7593
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "authWithTopBarAccountLinkOnMainPage",
+      "uid" : "ab379984ec4efdbc",
+      "parentUid" : "135bac64e72a6ce5347105d4ba2d38d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695547779951,
+        "stop" : 1695547785675,
+        "duration" : 5724
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "authWithAccountLoginButtonOnMainPage",
+      "uid" : "68c1a0af95635fb",
+      "parentUid" : "135bac64e72a6ce5347105d4ba2d38d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695547785686,
+        "stop" : 1695547791597,
+        "duration" : 5911
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "authWithLoginButtonOnForgotPasswordPage",
+      "uid" : "7a9fcdc29658fb9b",
+      "parentUid" : "135bac64e72a6ce5347105d4ba2d38d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695547791630,
+        "stop" : 1695547797780,
+        "duration" : 6150
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "navigateBurgerIngredientsTabs",
+      "uid" : "758f345f580ba019",
+      "parentUid" : "135bac64e72a6ce5347105d4ba2d38d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695547798536,
+        "stop" : 1695547805317,
+        "duration" : 6781
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "transitionToPersonalAccountAuthorizedUser",
+      "uid" : "4db66d78cea8b7d6",
+      "parentUid" : "135bac64e72a6ce5347105d4ba2d38d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695547806029,
+        "stop" : 1695547812526,
+        "duration" : 6497
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "userRegisterWithCorrectPassword",
+      "uid" : "3169215840c0ee4f",
+      "parentUid" : "135bac64e72a6ce5347105d4ba2d38d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695547812921,
+        "stop" : 1695547823596,
+        "duration" : 10675
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "userRegisterWithIncorrectPassword",
+      "uid" : "9ab507de1817f3ea",
+      "parentUid" : "135bac64e72a6ce5347105d4ba2d38d7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695547823737,
+        "stop" : 1695547829419,
+        "duration" : 5682
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "org.example"
+  } ]
+}

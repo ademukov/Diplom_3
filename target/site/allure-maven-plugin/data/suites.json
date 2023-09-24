@@ -1,0 +1,138 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "org.example.LoginTest",
+    "children" : [ {
+      "name" : "Вход через кнопку в форме регистрации",
+      "uid" : "62bf198d8ede4968",
+      "parentUid" : "2ce1b122b42f00a624592c17e3890e8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695547758417,
+        "stop" : 1695547771832,
+        "duration" : 13415
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Выход по кнопке «Выйти» в личном кабинете",
+      "uid" : "2d19d07248e2b8df",
+      "parentUid" : "2ce1b122b42f00a624592c17e3890e8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695547772346,
+        "stop" : 1695547779939,
+        "duration" : 7593
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Вход через кнопку «Личный кабинет»",
+      "uid" : "ab379984ec4efdbc",
+      "parentUid" : "2ce1b122b42f00a624592c17e3890e8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695547779951,
+        "stop" : 1695547785675,
+        "duration" : 5724
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Вход по кнопке «Войти в аккаунт» на главной",
+      "uid" : "68c1a0af95635fb",
+      "parentUid" : "2ce1b122b42f00a624592c17e3890e8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695547785686,
+        "stop" : 1695547791597,
+        "duration" : 5911
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Вход через кнопку в форме восстановления пароля",
+      "uid" : "7a9fcdc29658fb9b",
+      "parentUid" : "2ce1b122b42f00a624592c17e3890e8d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695547791630,
+        "stop" : 1695547797780,
+        "duration" : 6150
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "2ce1b122b42f00a624592c17e3890e8d"
+  }, {
+    "name" : "org.example.ConstructorTest",
+    "children" : [ {
+      "name" : "navigateBurgerIngredientsTabs",
+      "uid" : "758f345f580ba019",
+      "parentUid" : "8d46d98d44c94dbb722d01fa9466e91f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695547798536,
+        "stop" : 1695547805317,
+        "duration" : 6781
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8d46d98d44c94dbb722d01fa9466e91f"
+  }, {
+    "name" : "org.example.PersonalAccountTest",
+    "children" : [ {
+      "name" : "Переход в личный кабинет залогиненным пользователем",
+      "uid" : "4db66d78cea8b7d6",
+      "parentUid" : "b7c980ee12e101790749822c779c95f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695547806029,
+        "stop" : 1695547812526,
+        "duration" : 6497
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "b7c980ee12e101790749822c779c95f6"
+  }, {
+    "name" : "org.example.RegisterTest",
+    "children" : [ {
+      "name" : "Успешная регистрация",
+      "uid" : "3169215840c0ee4f",
+      "parentUid" : "d6a0a169bf5aaa740381a5103a72cbb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695547812921,
+        "stop" : 1695547823596,
+        "duration" : 10675
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Отображение ошибки при вводе некорректного пароля",
+      "uid" : "9ab507de1817f3ea",
+      "parentUid" : "d6a0a169bf5aaa740381a5103a72cbb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1695547823737,
+        "stop" : 1695547829419,
+        "duration" : 5682
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d6a0a169bf5aaa740381a5103a72cbb7"
+  } ]
+}
