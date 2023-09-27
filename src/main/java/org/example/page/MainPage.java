@@ -13,18 +13,10 @@ public class MainPage {
     private By saucesTab = By.xpath("//div/span[contains(text(), 'Соусы')]");
     private By ingredientsTab = By.xpath("//div/span[contains(text(), 'Начинки')]");
     private By bunsTabElement = By.xpath("//span[contains(text(), 'Булки')]/parent::div");
+    private By saucesSpan = By.xpath("//span[contains(text(), 'Соусы')]/parent::div");
+    private By ingredientsSpan = By.xpath("//span[contains(text(), 'Начинки')]/parent::div");
+    private By bunsSpan = By.xpath("//span[contains(text(), 'Булки')]/parent::div");
 
-    public WebElement getSaucesTabTitle() {
-        return driver.findElement(saucesTabTitle);
-    }
-
-    public WebElement getIngredientsTabTitle() {
-        return driver.findElement(ingredientsTabTitle);
-    }
-
-    public WebElement getBunsTabTitle() {
-        return driver.findElement(bunsTabTitle);
-    }
 
     private By saucesTabTitle = By.xpath("//h2[text()='Соусы']");
     private By ingredientsTabTitle = By.xpath("//h2[text()='Начинки']");
@@ -34,17 +26,17 @@ public class MainPage {
         this.driver = driver;
     }
 
-//    public WebElement getSaucesSpan() {
-//        return driver.findElement(saucesSpan);
-//    }
-//
-//    public WebElement getIngredientsSpan() {
-//        return driver.findElement(ingredientsSpan);
-//    }
-//
-//    public WebElement getBunsSpan() {
-//        return driver.findElement(bunsSpan);
-//    }
+    public WebElement getSaucesSpan() {
+        return driver.findElement(saucesSpan);
+    }
+
+    public WebElement getIngredientsSpan() {
+        return driver.findElement(ingredientsSpan);
+    }
+
+    public WebElement getBunsSpan() {
+        return driver.findElement(bunsSpan);
+    }
 
     public WebElement getTransientButton() {
         return driver.findElement(transientButton);
@@ -54,24 +46,9 @@ public class MainPage {
         driver.findElement(topBarAccountButton).click();
     }
 
-    public WebElement getBunsTabElement() {
-        return driver.findElement(bunsTabElement);
-    }
-
-    public void selectBunsTab() {
-        driver.findElement(bunsTab).click();
-    }
-
-    public WebElement getSaucesTabElement() {
-        return driver.findElement(saucesTab);
-    }
 
     public void selectSaucesTab() {
         driver.findElement(saucesTab).click();
-    }
-
-    public WebElement getIngredientsTabElement() {
-        return driver.findElement(ingredientsTab);
     }
 
     public void selectIngredientsTab() {

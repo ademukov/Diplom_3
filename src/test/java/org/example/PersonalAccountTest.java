@@ -25,7 +25,7 @@ public class PersonalAccountTest extends BaseUiTest {
         Faker faker = new Faker();
         user = new User(faker.internet().emailAddress(), faker.internet().password(), faker.name().firstName());
         UserLogin createUserForLoginCheck = new UserLogin(user.getEmail(), user.getPassword(), user.getName());//создаем объект для создания пользователя
-        var response = given()
+        given()
                 .contentType(ContentType.APPLICATION_JSON.getMimeType()) // заполнили header
                 .body(createUserForLoginCheck)
                 .post("https://stellarburgers.nomoreparties.site/api/auth/register");

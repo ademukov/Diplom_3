@@ -1,90 +1,110 @@
 [ {
-  "uid" : "62bf198d8ede4968",
-  "name" : "Вход через кнопку в форме регистрации",
-  "time" : {
-    "start" : 1695547758417,
-    "stop" : 1695547771832,
-    "duration" : 13415
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2d19d07248e2b8df",
-  "name" : "Выход по кнопке «Выйти» в личном кабинете",
-  "time" : {
-    "start" : 1695547772346,
-    "stop" : 1695547779939,
-    "duration" : 7593
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9ab507de1817f3ea",
-  "name" : "Отображение ошибки при вводе некорректного пароля",
-  "time" : {
-    "start" : 1695547823737,
-    "stop" : 1695547829419,
-    "duration" : 5682
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ab379984ec4efdbc",
-  "name" : "Вход через кнопку «Личный кабинет»",
-  "time" : {
-    "start" : 1695547779951,
-    "stop" : 1695547785675,
-    "duration" : 5724
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4db66d78cea8b7d6",
-  "name" : "Переход в личный кабинет залогиненным пользователем",
-  "time" : {
-    "start" : 1695547806029,
-    "stop" : 1695547812526,
-    "duration" : 6497
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "758f345f580ba019",
-  "name" : "navigateBurgerIngredientsTabs",
-  "time" : {
-    "start" : 1695547798536,
-    "stop" : 1695547805317,
-    "duration" : 6781
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7a9fcdc29658fb9b",
-  "name" : "Вход через кнопку в форме восстановления пароля",
-  "time" : {
-    "start" : 1695547791630,
-    "stop" : 1695547797780,
-    "duration" : 6150
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "68c1a0af95635fb",
+  "uid" : "3ea0e5ea22108cb1",
   "name" : "Вход по кнопке «Войти в аккаунт» на главной",
   "time" : {
-    "start" : 1695547785686,
-    "stop" : 1695547791597,
-    "duration" : 5911
+    "start" : 1695818152690,
+    "stop" : 1695818157041,
+    "duration" : 4351
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "3169215840c0ee4f",
+  "uid" : "2ea19d8ee9dea8f7",
   "name" : "Успешная регистрация",
   "time" : {
-    "start" : 1695547812921,
-    "stop" : 1695547823596,
-    "duration" : 10675
+    "start" : 1695818179896,
+    "stop" : 1695818186831,
+    "duration" : 6935
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "669648dc19b974d4",
+  "name" : "Переход в личный кабинет залогиненным пользователем",
+  "time" : {
+    "start" : 1695818174534,
+    "stop" : 1695818179373,
+    "duration" : 4839
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8d35f6757127356",
+  "name" : "Выход по кнопке «Выйти» в личном кабинете",
+  "time" : {
+    "start" : 1695818143297,
+    "stop" : 1695818148690,
+    "duration" : 5393
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6cd6b497e3ea0ef5",
+  "name" : "Вход через кнопку «Личный кабинет»",
+  "time" : {
+    "start" : 1695818148698,
+    "stop" : 1695818152687,
+    "duration" : 3989
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4826ebb980cb35ab",
+  "name" : "Переход к разделу Булки",
+  "time" : {
+    "start" : 1695818161773,
+    "stop" : 1695818165626,
+    "duration" : 3853
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "54de7aaece26a90d",
+  "name" : "Вход через кнопку в форме восстановления пароля",
+  "time" : {
+    "start" : 1695818157048,
+    "stop" : 1695818161329,
+    "duration" : 4281
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bf8ee44ec6f8f6d4",
+  "name" : "Переход к разделу Соусы",
+  "time" : {
+    "start" : 1695818169115,
+    "stop" : 1695818173830,
+    "duration" : 4715
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81889b68ebfc3765",
+  "name" : "Вход через кнопку в форме регистрации",
+  "time" : {
+    "start" : 1695818133396,
+    "stop" : 1695818143130,
+    "duration" : 9734
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9dd15f9473cab5a7",
+  "name" : "Переход к разделу Начинки",
+  "time" : {
+    "start" : 1695818165633,
+    "stop" : 1695818169109,
+    "duration" : 3476
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8d9763ad4d89548",
+  "name" : "Отображение ошибки при вводе некорректного пароля",
+  "time" : {
+    "start" : 1695818186836,
+    "stop" : 1695818190844,
+    "duration" : 4008
   },
   "status" : "passed",
   "severity" : "normal"
